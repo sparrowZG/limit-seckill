@@ -1,4 +1,3 @@
-[TOC]
 
 # SpringBoot开发秒杀项目
 
